@@ -1,11 +1,10 @@
 Package: cba
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Ensemble clustering
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Gabriel Rodrigues Damasceno and Marcelo Keese Albertini
+Maintainer: Marcelo Keese Albertini <albertini@ufu.br>
+Description: Modifies COP-K-means for using evidences to generate ensemble clustering.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
